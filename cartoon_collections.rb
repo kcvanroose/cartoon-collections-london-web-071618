@@ -16,7 +16,8 @@ end
 
 def find_the_cheese(array)
    if array.include?("chedder")
-     return "chedder"
+     i= "chedder"
+     return i
     elsif array.include?("gouda")
       return "gouda"
     elsif array.include?("camembert")
