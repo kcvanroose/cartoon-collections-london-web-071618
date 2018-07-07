@@ -15,8 +15,8 @@ end
 end
 
 def find_the_cheese(array)
-   if array.include?("chedder")
-    return "chedder"
+   if array.include?("cheddar")
+    return "cheddar"
     elsif array.include?("gouda")
       return "gouda"
     elsif array.include?("camembert")
@@ -25,7 +25,7 @@ def find_the_cheese(array)
 end
 
 #def find_the_cheese(array)
-  #array.each do |i| == "chedder" || "gouda" || "gouda"
+  #array.each do |i| == "cheddar" || "gouda" || "gouda"
   #return i
 #end
 #end
