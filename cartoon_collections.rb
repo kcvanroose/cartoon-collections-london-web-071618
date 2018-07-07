@@ -15,11 +15,11 @@ end
 end
 
 def find_the_cheese(array)
-   if array.include("chedder")
+   if array.include?("chedder")
      return "chedder"
-    elsif array.include("gouda")
+    elsif array.include?("gouda")
       return "gouda"
-    elsif array.include("camembert")
+    elsif array.include?("camembert")
       return "camembert"
   end
 end
