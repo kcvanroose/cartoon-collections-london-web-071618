@@ -23,9 +23,3 @@ def find_the_cheese(array)
       return "camembert"
   end
 end
-
-#def find_the_cheese(array)
-  #array.each do |i| == "cheddar" || "gouda" || "gouda"
-  #return i
-#end
-#end
