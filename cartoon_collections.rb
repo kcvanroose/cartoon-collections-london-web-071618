@@ -23,6 +23,7 @@ def find_the_cheese(array)
     elsif array.include?("camembert")
       return "camembert"
   end
+  i
 end
 
 #def find_the_cheese(array)
